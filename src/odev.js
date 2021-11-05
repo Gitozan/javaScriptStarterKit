@@ -35,7 +35,6 @@ for (let i = 0; i < num2; i++) {
         sum2 +=i
     }
 }
-
 if (sum1==num2 && sum2==num1) {
     console.log(num1 + " ve " + num2 +" Arkadaş Sayı")
 }
