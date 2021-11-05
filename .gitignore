@@ -1,1 +1,3 @@
 node_modules
+# paketleri githuba atma , yukarıdaki klasöre yerleştir demek
+#npm install ile tüm paketleri bilgisayarda node_modules klasörüne atar
