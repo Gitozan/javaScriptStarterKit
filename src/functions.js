@@ -126,6 +126,4 @@ let newProductName,newUnitePrice,newQuantity
 
 console.log(newProductName)
 
-login({title}){
-    console.log()
-}
+
